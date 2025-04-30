@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Akash Jadhav from India 🇮🇳 <br>
+## 👋 Hi there, I'm Akash Jadhav from India. <br>
 
-### 💡 A Passionate Data Engineer | Analytics Engineer <br>
+### 💡 A Passionate Data Engineer || Analytics Engineer <br>
 
 
 
@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory"/>
 </a>
 
+<!-- Informatica -->
+<a href="https://www.informatica.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Informatica-1F458D?style=for-the-badge&logo=informatica&logoColor=white" alt="Informatica"/>
+</a>
 
 <!-- Apache Airflow -->
 <a href="https://airflow.apache.org/" target="_blank">
@@ -79,16 +83,26 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </a>
 
+<!-- Power Bi -->
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
 </a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+
+
+
 
 
 ---
 
 ### 🧑‍💻 What I'm Working On
 - 🏥 Building a **Healthcare Data Warehouse Project** with MySQL, Python, and Power BI  
-- ⚙️ Developing end-to-end **ETL pipelines** and **dashboards** for data insights  
+- ⚙️ Developing end-to-end **ETL pipelines** and **dashboards** for data insights
+- 🔄 Migrating legacy **Informatica workflows** to **Azure Databricks** for improved scalability and performance 
 - 📦 Mastering **DataOps** practices using Airflow, ADF, and Azure Pipelines
 
 ---
