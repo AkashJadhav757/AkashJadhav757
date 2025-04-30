@@ -117,7 +117,7 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](linkedin.com/in/akash-jadhav-8941041a8)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akash-jadhav-8941041a8/)
 - 📧 akashjadhav757@gmail.com
 
 ---
