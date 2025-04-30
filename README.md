@@ -48,6 +48,12 @@
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow"/>
 </a>
 
+<!-- Selenium -->
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+</a>
+
+
 <!-- Snowflake -->
 <a href="https://www.snowflake.com/" target="_blank">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
